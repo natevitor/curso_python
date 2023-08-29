@@ -2,7 +2,7 @@
 Introdução ao empacotamento e desempacotamento
 """
 
-# desempacotamento = dividir valores 
+# desempacotamento = separar valores
 
 
 _, _, nome, *resto = ['Maria', 'Helena', 'Luiz']
