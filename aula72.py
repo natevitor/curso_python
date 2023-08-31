@@ -1,5 +1,7 @@
 # Exercícios com funções
 
+# Aula 113
+
 # Crie uma função que multiplica todos os argumentos
 # não nomeados recebidos
 # Retorne o total para uma variável e mostre o valor
